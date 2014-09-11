@@ -36,7 +36,17 @@ For example:
 
     This is an [example link](http://example.com/).
 
+Output:
+
+    <p>This is an <a href="http://example.com/">
+    example link</a>.</p>
+
 Optionally, you may include a title attribute in the parentheses:
 
     This is an [example link](http://example.com/ "With a Title").
+
+Output:
+
+    <p>This is an <a href="http://example.com/" title="With a Title">
+    example link</a>.</p>
 
