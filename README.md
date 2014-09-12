@@ -6,7 +6,7 @@ This is the README.md file for my Data Science course from Coursera.
 
 Right now, it is just a place to play with markdown.
 
-Most of this is from [Markdown Basics](http://daringfireball.net/projects/markdown/basics)
+Most of this is from John Gruber's [Markdown Basics] [basics]
 
 Some of these words *are emphasized*.
 Some of these words _are emphasized also_.
@@ -52,3 +52,5 @@ Output:
     <p>This is an <a href="http://example.com/" title="With a Title">
     example link</a>.</p>
 
+
+[basics]: http://daringfireball.net/projects/markdown/basics
